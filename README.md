@@ -2,7 +2,7 @@
 ## 👨‍💻 C++ developer, 6+ years experience
 
 📞 **Phone:** [+995 574 174 936](https://wa.me/995574174936)  
-🕒 **Timezone:** GMT+3  
+🕒 **Timezone:** GMT-3  
 ✉️ **Email:** [vasilii.v.makarov@gmail.com](mailto:vasilii.v.makarov@gmail.com)  
 💼 **LinkedIn:** [vvmakarov](https://www.linkedin.com/in/vvmakarov/)  
 💻 **GitHub:** [vasilii-makarov](https://github.com/vasilii-makarov)
